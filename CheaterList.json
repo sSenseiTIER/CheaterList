@@ -1,1 +1,15 @@
-
+{
+  "cheaters": [
+    {
+      "minecraft_name": "Vayju",
+      "discord_id": "823659261183262730",
+      "reason": "test27371",
+      "duration": "1d",
+      "punished_by": "Sensei",
+      "punishment_date": "2025-09-07T22:15:05.906366+00:00",
+      "modality": "SWORD",
+      "status": "active"
+    }
+  ],
+  "last_updated": "2025-09-07T22:15:05.906373+00:00"
+}
