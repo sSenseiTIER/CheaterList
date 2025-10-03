@@ -13,21 +13,6 @@
       "expired_by": "Sensei",
       "expiration_reason": "test",
       "original_status": "expired"
-    },
-    {
-      "minecraft_name": "Roist_",
-      "discord_id": "978383386668326943",
-      "reason": "Test1287278182",
-      "duration": "1d",
-      "punished_by": "Sensei",
-      "punishment_date": "2025-09-21T22:03:10.118921+00:00",
-      "modality": "SWORD",
-      "status": "expired",
-      "expires": "2025-09-22T22:03:10.118921+00:00",
-      "expired_date": "2025-09-21T22:21:26.469468+00:00",
-      "expired_by": "Sensei",
-      "expiration_reason": "Castigo expirado",
-      "original_status": "expired"
     }
   ],
   "last_updated": "2025-09-21T22:21:26.469758+00:00"
