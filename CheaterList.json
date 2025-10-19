@@ -39,7 +39,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2025-11-12T03:20:17.257645+00:00"
+    },
+    {
+      "minecraft_name": "Sabr1tas",
+      "discord_id": "745035739376386078",
+      "reason": "Cheater atrapado en SS",
+      "duration": "90d",
+      "punished_by": "Tiliwilis @ For Help",
+      "punishment_date": "2025-10-19T05:12:57.447156+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-01-17T05:12:57.447156+00:00"
     }
   ],
-  "last_updated": "2025-10-14T01:12:09.745701+00:00"
+  "last_updated": "2025-10-19T05:12:57.447879+00:00"
 }
