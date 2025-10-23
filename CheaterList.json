@@ -50,7 +50,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-01-17T05:12:57.447156+00:00"
+    },
+    {
+      "minecraft_name": "toledoo144hz",
+      "discord_id": "988966060373999666",
+      "reason": "refuse ss",
+      "duration": "90d",
+      "punished_by": "Joca",
+      "punishment_date": "2025-10-23T01:55:07.464628+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active",
+      "expires": "2026-01-21T01:55:07.464628+00:00"
     }
   ],
-  "last_updated": "2025-10-19T05:12:57.447879+00:00"
+  "last_updated": "2025-10-23T01:55:07.465025+00:00"
 }
