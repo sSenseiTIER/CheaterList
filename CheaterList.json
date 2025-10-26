@@ -61,7 +61,18 @@
       "modality": "NETHERITEPOT",
       "status": "active",
       "expires": "2026-01-21T01:55:07.464628+00:00"
+    },
+    {
+      "minecraft_name": "Kxyzip",
+      "discord_id": "1147248935153455234",
+      "reason": "Intento de evadir cooldown + alting",
+      "duration": "14d",
+      "punished_by": "Dev | ma abrime porf",
+      "punishment_date": "2025-10-26T05:04:40.183581+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2025-11-09T05:04:40.183581+00:00"
     }
   ],
-  "last_updated": "2025-10-23T01:55:07.465025+00:00"
+  "last_updated": "2025-10-26T05:04:40.184808+00:00"
 }
