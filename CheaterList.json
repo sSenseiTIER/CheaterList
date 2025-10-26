@@ -72,7 +72,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2025-11-09T05:04:40.183581+00:00"
+    },
+    {
+      "minecraft_name": "Sharitom",
+      "discord_id": "1051862085795053698",
+      "reason": "Shared Account",
+      "duration": "30d",
+      "punished_by": "enlyyy @ for test",
+      "punishment_date": "2025-10-26T19:52:24.299706+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2025-11-25T19:52:24.299706+00:00"
     }
   ],
-  "last_updated": "2025-10-26T05:04:40.184808+00:00"
+  "last_updated": "2025-10-26T19:52:24.300170+00:00"
 }
