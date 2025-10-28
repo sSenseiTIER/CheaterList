@@ -105,7 +105,18 @@
       "modality": "NETHERITEPOT",
       "status": "active",
       "expires": "2025-11-27T20:08:33.654839+00:00"
+    },
+    {
+      "minecraft_name": "𝐒𝐀 / 𝐳𝐓𝐮𝐬𝐬𝟏𝐚𝐝𝟏𝐭𝐨",
+      "discord_id": "1270951967895588884",
+      "reason": "alteo/uso de multicuentas",
+      "duration": "30d",
+      "punished_by": "Bigcuts",
+      "punishment_date": "2025-10-28T20:09:16.571903+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active",
+      "expires": "2025-11-27T20:09:16.571903+00:00"
     }
   ],
-  "last_updated": "2025-10-28T20:08:33.655383+00:00"
+  "last_updated": "2025-10-28T20:09:16.572508+00:00"
 }
