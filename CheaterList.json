@@ -94,7 +94,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2025-11-26T04:18:14.055657+00:00"
+    },
+    {
+      "minecraft_name": "iSexAdd1ct",
+      "discord_id": "1337279564833099838",
+      "reason": "alteo/uso de multicuentas",
+      "duration": "30d",
+      "punished_by": "Bigcuts",
+      "punishment_date": "2025-10-28T20:08:33.654839+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active",
+      "expires": "2025-11-27T20:08:33.654839+00:00"
     }
   ],
-  "last_updated": "2025-10-27T04:18:14.056800+00:00"
+  "last_updated": "2025-10-28T20:08:33.655383+00:00"
 }
