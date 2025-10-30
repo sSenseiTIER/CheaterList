@@ -85,15 +85,15 @@
       "expires": "2025-11-25T19:54:43.801544+00:00"
     },
     {
-      "minecraft_name": ".",
+      "minecraft_name": "0dyssy",
       "discord_id": "1392505264350953726",
-      "reason": "alting",
-      "duration": "30d",
+      "reason": "Alting",
+      "duration": "90d",
       "punished_by": "SA | IlyLunnnaa @ 4 help",
-      "punishment_date": "2025-10-30T01:50:16.940964+00:00",
+      "punishment_date": "2025-10-30T01:52:07.444388+00:00",
       "modality": "CRYSTALPVP",
       "status": "active",
-      "expires": "2025-11-29T01:50:16.940964+00:00"
+      "expires": "2026-01-28T01:52:07.444388+00:00"
     },
     {
       "minecraft_name": "iSexAdd1ct",
@@ -129,5 +129,5 @@
       "expires": "2026-01-28T01:51:43.410456+00:00"
     }
   ],
-  "last_updated": "2025-10-30T01:51:43.410907+00:00"
+  "last_updated": "2025-10-30T01:52:07.444856+00:00"
 }
