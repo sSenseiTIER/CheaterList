@@ -127,7 +127,17 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-01-28T01:51:43.410456+00:00"
+    },
+    {
+      "minecraft_name": "Maxineitor",
+      "discord_id": "1238964555435085968",
+      "reason": "cheating en video",
+      "duration": "permanent",
+      "punished_by": "Bigcuts",
+      "punishment_date": "2025-11-02T22:34:42.889538+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active"
     }
   ],
-  "last_updated": "2025-10-30T01:52:07.444856+00:00"
+  "last_updated": "2025-11-02T22:34:42.889871+00:00"
 }
