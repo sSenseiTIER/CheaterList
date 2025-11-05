@@ -147,7 +147,18 @@
       "punishment_date": "2025-11-04T18:17:11.541158+00:00",
       "modality": "CRYSTALPVP",
       "status": "active"
+    },
+    {
+      "minecraft_name": "GampiPLAYER",
+      "discord_id": "1383271948632588328",
+      "reason": "Alting",
+      "duration": "30d",
+      "punished_by": "NA | Styffy",
+      "punishment_date": "2025-11-05T03:26:50.878446+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2025-12-05T03:26:50.878446+00:00"
     }
   ],
-  "last_updated": "2025-11-04T18:17:11.541455+00:00"
+  "last_updated": "2025-11-05T03:26:50.879442+00:00"
 }
