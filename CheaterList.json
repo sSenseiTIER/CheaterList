@@ -169,7 +169,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2025-12-05T03:27:01.556446+00:00"
+    },
+    {
+      "minecraft_name": "xdasis",
+      "discord_id": "1425954437691871454",
+      "reason": "Cheats en ss",
+      "duration": "90d",
+      "punished_by": "NA | Styffy",
+      "punishment_date": "2025-11-06T00:42:43.094096+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-02-04T00:42:43.094096+00:00"
     }
   ],
-  "last_updated": "2025-11-05T03:27:01.556988+00:00"
+  "last_updated": "2025-11-06T00:42:43.094719+00:00"
 }
