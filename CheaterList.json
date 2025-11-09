@@ -70,8 +70,12 @@
       "punished_by": "Dev | ma abrime porf",
       "punishment_date": "2025-10-26T05:04:40.183581+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2025-11-09T05:04:40.183581+00:00"
+      "status": "expired",
+      "expires": "2025-11-09T05:04:40.183581+00:00",
+      "expired_date": "2025-11-09T05:18:01.737561+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "Sharitom",
@@ -182,5 +186,5 @@
       "expires": "2026-02-04T00:42:43.094096+00:00"
     }
   ],
-  "last_updated": "2025-11-06T00:42:43.094719+00:00"
+  "last_updated": "2025-11-09T05:18:01.737825+00:00"
 }
