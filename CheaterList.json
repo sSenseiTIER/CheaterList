@@ -184,7 +184,17 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-02-04T00:42:43.094096+00:00"
+    },
+    {
+      "minecraft_name": "matisito15_",
+      "discord_id": "1424811988592234591",
+      "reason": "Alting/comparte cuenta para poder sacar mejor tier y escribe por discord mientras juega",
+      "duration": "permanent",
+      "punished_by": "Bigcuts",
+      "punishment_date": "2025-11-12T02:45:08.971854+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active"
     }
   ],
-  "last_updated": "2025-11-09T05:19:05.023074+00:00"
+  "last_updated": "2025-11-12T02:45:08.972224+00:00"
 }
