@@ -37,8 +37,12 @@
       "punished_by": "Tiliwilis @ For Help",
       "punishment_date": "2025-10-13T03:20:17.257645+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2025-11-12T03:20:17.257645+00:00"
+      "status": "expired",
+      "expires": "2025-11-12T03:20:17.257645+00:00",
+      "expired_date": "2025-11-12T03:31:57.824376+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "Sabr1tas",
@@ -196,5 +200,5 @@
       "status": "active"
     }
   ],
-  "last_updated": "2025-11-12T02:45:08.972224+00:00"
+  "last_updated": "2025-11-12T03:31:57.824636+00:00"
 }
