@@ -198,7 +198,17 @@
       "punishment_date": "2025-11-12T02:45:08.971854+00:00",
       "modality": "NETHERITEPOT",
       "status": "active"
+    },
+    {
+      "minecraft_name": "Mxrtyna",
+      "discord_id": "977322307762679888",
+      "reason": "robo de cuentas",
+      "duration": "permanent",
+      "punished_by": "Sensei",
+      "punishment_date": "2025-11-16T16:42:44.154864+00:00",
+      "modality": "SWORD",
+      "status": "active"
     }
   ],
-  "last_updated": "2025-11-12T03:31:57.824636+00:00"
+  "last_updated": "2025-11-16T16:42:44.155241+00:00"
 }
