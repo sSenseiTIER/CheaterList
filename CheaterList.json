@@ -89,8 +89,12 @@
       "punished_by": "enlyyy @ for test",
       "punishment_date": "2025-10-26T19:54:43.801544+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2025-11-25T19:54:43.801544+00:00"
+      "status": "expired",
+      "expires": "2025-11-25T19:54:43.801544+00:00",
+      "expired_date": "2025-11-25T20:09:04.960976+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado por sistema",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "0dyssy",
@@ -210,5 +214,5 @@
       "status": "active"
     }
   ],
-  "last_updated": "2025-11-16T16:42:44.155241+00:00"
+  "last_updated": "2025-11-25T20:09:04.961300+00:00"
 }
