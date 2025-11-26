@@ -212,7 +212,18 @@
       "punishment_date": "2025-11-16T16:42:44.154864+00:00",
       "modality": "SWORD",
       "status": "active"
+    },
+    {
+      "minecraft_name": "Hqdes",
+      "discord_id": "441046991208710145",
+      "reason": "Involucrado en Doxxing",
+      "duration": "120d",
+      "punished_by": "Tiliwilis @ For Help",
+      "punishment_date": "2025-11-26T00:38:13.589325+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-03-26T00:38:13.589325+00:00"
     }
   ],
-  "last_updated": "2025-11-25T20:09:24.195049+00:00"
+  "last_updated": "2025-11-26T00:38:13.590932+00:00"
 }
