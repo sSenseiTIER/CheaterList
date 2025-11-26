@@ -223,7 +223,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-03-26T00:38:13.589325+00:00"
+    },
+    {
+      "minecraft_name": "wTennessee",
+      "discord_id": "1247376641949175901",
+      "reason": "Cheating, Atrapado en SS.",
+      "duration": "50d",
+      "punished_by": "Tiliwilis @ For Help",
+      "punishment_date": "2025-11-26T22:40:41.099541+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-01-15T22:40:41.099541+00:00"
     }
   ],
-  "last_updated": "2025-11-26T00:38:13.590932+00:00"
+  "last_updated": "2025-11-26T22:40:41.101413+00:00"
 }
