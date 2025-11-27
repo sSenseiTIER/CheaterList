@@ -130,8 +130,12 @@
       "punished_by": "Bigcuts",
       "punishment_date": "2025-10-28T20:09:16.571903+00:00",
       "modality": "NETHERITEPOT",
-      "status": "active",
-      "expires": "2025-11-27T20:09:16.571903+00:00"
+      "status": "expired",
+      "expires": "2025-11-27T20:09:16.571903+00:00",
+      "expired_date": "2025-11-27T20:09:24.628924+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "K1ngDtap",
@@ -240,5 +244,5 @@
       "expires": "2026-02-24T22:40:49.901114+00:00"
     }
   ],
-  "last_updated": "2025-11-27T20:09:24.096995+00:00"
+  "last_updated": "2025-11-27T20:09:24.629257+00:00"
 }
