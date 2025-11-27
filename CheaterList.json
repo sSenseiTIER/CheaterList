@@ -117,9 +117,9 @@
       "modality": "NETHERITEPOT",
       "status": "expired",
       "expires": "2025-11-27T20:08:33.654839+00:00",
-      "expired_date": "2025-11-27T20:09:15.562073+00:00",
+      "expired_date": "2025-11-27T20:09:24.096624+00:00",
       "expired_by": "Sistema Automático",
-      "expiration_reason": "Auto-expirado por sistema",
+      "expiration_reason": "Auto-expirado",
       "original_status": "expired"
     },
     {
@@ -240,5 +240,5 @@
       "expires": "2026-02-24T22:40:49.901114+00:00"
     }
   ],
-  "last_updated": "2025-11-27T20:09:15.562317+00:00"
+  "last_updated": "2025-11-27T20:09:24.096995+00:00"
 }
