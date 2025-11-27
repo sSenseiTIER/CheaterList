@@ -115,8 +115,12 @@
       "punished_by": "Bigcuts",
       "punishment_date": "2025-10-28T20:08:33.654839+00:00",
       "modality": "NETHERITEPOT",
-      "status": "active",
-      "expires": "2025-11-27T20:08:33.654839+00:00"
+      "status": "expired",
+      "expires": "2025-11-27T20:08:33.654839+00:00",
+      "expired_date": "2025-11-27T20:09:05.091795+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "𝐒𝐀 / 𝐳𝐓𝐮𝐬𝐬𝟏𝐚𝐝𝟏𝐭𝐨",
@@ -236,5 +240,5 @@
       "expires": "2026-02-24T22:40:49.901114+00:00"
     }
   ],
-  "last_updated": "2025-11-26T22:40:49.901781+00:00"
+  "last_updated": "2025-11-27T20:09:05.092044+00:00"
 }
