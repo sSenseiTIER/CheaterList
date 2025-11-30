@@ -242,7 +242,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-02-24T22:40:49.901114+00:00"
+    },
+    {
+      "minecraft_name": "SNEAKYGOLEMYES",
+      "discord_id": "1046082951324106772",
+      "reason": "Alting + Skipping cooldown multiple times",
+      "duration": "30d",
+      "punished_by": "qRana_ | @ for help",
+      "punishment_date": "2025-11-30T03:55:11.949466+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2025-12-30T03:55:11.949466+00:00"
     }
   ],
-  "last_updated": "2025-11-27T20:09:24.629257+00:00"
+  "last_updated": "2025-11-30T03:55:11.950534+00:00"
 }
