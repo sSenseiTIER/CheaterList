@@ -253,7 +253,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2025-12-30T03:55:56.174058+00:00"
+    },
+    {
+      "minecraft_name": "zF3L1X",
+      "discord_id": "1379895787198349322",
+      "reason": "Uso de Textura ilegal",
+      "duration": "25d",
+      "punished_by": "AtKyrie",
+      "punishment_date": "2025-12-01T22:13:17.882774+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2025-12-26T22:13:17.882774+00:00"
     }
   ],
-  "last_updated": "2025-11-30T03:55:56.174566+00:00"
+  "last_updated": "2025-12-01T22:13:17.883340+00:00"
 }
