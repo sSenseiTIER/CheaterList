@@ -176,8 +176,12 @@
       "punished_by": "NA | Styffy",
       "punishment_date": "2025-11-05T03:26:50.878446+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2025-12-05T03:26:50.878446+00:00"
+      "status": "expired",
+      "expires": "2025-12-05T03:26:50.878446+00:00",
+      "expired_date": "2025-12-05T04:09:05.092403+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado por sistema",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "xSantiago",
@@ -266,5 +270,5 @@
       "expires": "2025-12-26T22:13:17.882774+00:00"
     }
   ],
-  "last_updated": "2025-12-01T22:13:17.883340+00:00"
+  "last_updated": "2025-12-05T04:09:05.092637+00:00"
 }
