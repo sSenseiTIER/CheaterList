@@ -83,18 +83,14 @@
     },
     {
       "minecraft_name": "Sharitom",
-      "discord_id": "942830957260582953",
-      "reason": "Shared Account (Sharitom)",
-      "duration": "30d",
-      "punished_by": "enlyyy @ for test",
-      "punishment_date": "2025-10-26T19:54:43.801544+00:00",
+      "discord_id": "1051862085795053698",
+      "reason": "alting multiple times in a row + skip punishment",
+      "duration": "35d",
+      "punished_by": "chica emo profesional xd7w7",
+      "punishment_date": "2025-12-05T21:16:38.335603+00:00",
       "modality": "CRYSTALPVP",
-      "status": "expired",
-      "expires": "2025-11-25T19:54:43.801544+00:00",
-      "expired_date": "2025-11-25T20:09:24.194527+00:00",
-      "expired_by": "Sistema Automático",
-      "expiration_reason": "Auto-expirado",
-      "original_status": "expired"
+      "status": "active",
+      "expires": "2026-01-09T21:16:38.335603+00:00"
     },
     {
       "minecraft_name": "0dyssy",
@@ -274,5 +270,5 @@
       "expires": "2025-12-26T22:13:17.882774+00:00"
     }
   ],
-  "last_updated": "2025-12-05T04:09:24.605773+00:00"
+  "last_updated": "2025-12-05T21:16:38.336003+00:00"
 }
