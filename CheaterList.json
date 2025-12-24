@@ -234,15 +234,14 @@
       "expires": "2026-03-26T00:38:13.589325+00:00"
     },
     {
-      "minecraft_name": "2shz",
+      "minecraft_name": "zog",
       "discord_id": "1247376641949175901",
-      "reason": "Cheats Caught in ss",
-      "duration": "90d",
-      "punished_by": "alylly",
-      "punishment_date": "2025-11-26T22:40:49.901114+00:00",
-      "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-02-24T22:40:49.901114+00:00"
+      "reason": "Closet Cheating / Video Evidence",
+      "duration": "permanent",
+      "punished_by": "SA/NA nevapray",
+      "punishment_date": "2025-12-24T00:02:09.739260+00:00",
+      "modality": "SWORD",
+      "status": "active"
     },
     {
       "minecraft_name": "SNEAKYGOLEMYES",
@@ -309,5 +308,5 @@
       "status": "active"
     }
   ],
-  "last_updated": "2025-12-24T00:01:48.772493+00:00"
+  "last_updated": "2025-12-24T00:02:09.739927+00:00"
 }
