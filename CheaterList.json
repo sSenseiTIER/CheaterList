@@ -287,7 +287,17 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-01-11T20:54:39.371892+00:00"
+    },
+    {
+      "minecraft_name": "platino_722",
+      "discord_id": "784638593570177069",
+      "reason": "Closet Cheating / Video Evidence",
+      "duration": "permanent",
+      "punished_by": "SA/NA nevapray",
+      "punishment_date": "2025-12-24T00:00:46.550966+00:00",
+      "modality": "SWORD",
+      "status": "active"
     }
   ],
-  "last_updated": "2025-12-23T14:34:53.069865+00:00"
+  "last_updated": "2025-12-24T00:00:46.551383+00:00"
 }
