@@ -10,7 +10,7 @@
       "modality": "SWORD",
       "status": "expired",
       "expires": "2025-12-24T14:34:53.069240+00:00",
-      "expired_date": "2025-12-24T14:49:45.850793+00:00",
+      "expired_date": "2025-12-24T14:49:53.898135+00:00",
       "expired_by": "Sistema Automático",
       "expiration_reason": "Auto-expirado por sistema",
       "original_status": "expired"
@@ -355,5 +355,5 @@
       "status": "active"
     }
   ],
-  "last_updated": "2025-12-24T14:49:45.851061+00:00"
+  "last_updated": "2025-12-24T14:49:53.898409+00:00"
 }
