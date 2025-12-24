@@ -328,7 +328,18 @@
       "modality": "NETHERITEPOT",
       "status": "active",
       "expires": "2026-02-22T07:06:53.273272+00:00"
+    },
+    {
+      "minecraft_name": "nchilll",
+      "discord_id": "1424548490536812628",
+      "reason": "Cheating in video",
+      "duration": "60d",
+      "punished_by": "SA | Bigcuts",
+      "punishment_date": "2025-12-24T07:25:41.482413+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active",
+      "expires": "2026-02-22T07:25:41.482413+00:00"
     }
   ],
-  "last_updated": "2025-12-24T07:06:53.274728+00:00"
+  "last_updated": "2025-12-24T07:25:41.483034+00:00"
 }
