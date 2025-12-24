@@ -297,7 +297,17 @@
       "punishment_date": "2025-12-24T00:00:46.550966+00:00",
       "modality": "SWORD",
       "status": "active"
+    },
+    {
+      "minecraft_name": "Mfxi",
+      "discord_id": "834888699271315498",
+      "reason": "Closet Cheating / Video Evidence",
+      "duration": "permanent",
+      "punished_by": "SA/NA nevapray",
+      "punishment_date": "2025-12-24T00:01:48.772156+00:00",
+      "modality": "SWORD",
+      "status": "active"
     }
   ],
-  "last_updated": "2025-12-24T00:00:46.551383+00:00"
+  "last_updated": "2025-12-24T00:01:48.772493+00:00"
 }
