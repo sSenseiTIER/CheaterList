@@ -317,7 +317,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-01-08T01:00:32.379114+00:00"
+    },
+    {
+      "minecraft_name": "7hza",
+      "discord_id": "695752326253641851",
+      "reason": "Cheating in video",
+      "duration": "60d",
+      "punished_by": "SA | Bigcuts",
+      "punishment_date": "2025-12-24T07:06:53.273272+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active",
+      "expires": "2026-02-22T07:06:53.273272+00:00"
     }
   ],
-  "last_updated": "2025-12-24T01:00:32.380271+00:00"
+  "last_updated": "2025-12-24T07:06:53.274728+00:00"
 }
