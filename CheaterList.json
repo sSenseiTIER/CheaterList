@@ -379,7 +379,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-02-24T18:55:43.521959+00:00"
+    },
+    {
+      "minecraft_name": "J4vixk",
+      "discord_id": "1293085795166588951",
+      "reason": "Item scroller",
+      "duration": "30d",
+      "punished_by": "SA | Bigcuts",
+      "punishment_date": "2025-12-26T23:01:45.702240+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active",
+      "expires": "2026-01-25T23:01:45.702240+00:00"
     }
   ],
-  "last_updated": "2025-12-26T22:54:23.986307+00:00"
+  "last_updated": "2025-12-26T23:01:45.703119+00:00"
 }
