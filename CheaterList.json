@@ -364,7 +364,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-01-25T03:18:41.514929+00:00"
+    },
+    {
+      "minecraft_name": "3xecuter",
+      "discord_id": "1437611947242684438",
+      "reason": "Cheats caught in ss (paulo estas puestisimo)",
+      "duration": "60d",
+      "punished_by": "Soffey",
+      "punishment_date": "2025-12-26T18:55:43.521959+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-02-24T18:55:43.521959+00:00"
     }
   ],
-  "last_updated": "2025-12-26T03:18:41.516432+00:00"
+  "last_updated": "2025-12-26T18:55:43.522446+00:00"
 }
