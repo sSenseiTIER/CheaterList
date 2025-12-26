@@ -390,7 +390,18 @@
       "modality": "NETHERITEPOT",
       "status": "active",
       "expires": "2026-01-25T23:01:45.702240+00:00"
+    },
+    {
+      "minecraft_name": "Laichi",
+      "discord_id": "1222041982894080113",
+      "reason": "Item Scroller",
+      "duration": "30d",
+      "punished_by": "SA | Bigcuts",
+      "punishment_date": "2025-12-26T23:02:24.729163+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active",
+      "expires": "2026-01-25T23:02:24.729163+00:00"
     }
   ],
-  "last_updated": "2025-12-26T23:01:45.703119+00:00"
+  "last_updated": "2025-12-26T23:02:24.729735+00:00"
 }
