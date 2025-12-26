@@ -266,8 +266,12 @@
       "punished_by": "AtKyrie",
       "punishment_date": "2025-12-01T22:13:17.882774+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2025-12-26T22:13:17.882774+00:00"
+      "status": "expired",
+      "expires": "2025-12-26T22:13:17.882774+00:00",
+      "expired_date": "2025-12-26T22:54:23.986071+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado por sistema",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "iKissMe (Sharitom)",
@@ -377,5 +381,5 @@
       "expires": "2026-02-24T18:55:43.521959+00:00"
     }
   ],
-  "last_updated": "2025-12-26T18:55:43.522446+00:00"
+  "last_updated": "2025-12-26T22:54:23.986307+00:00"
 }
