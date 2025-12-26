@@ -353,7 +353,18 @@
       "punishment_date": "2025-12-24T08:04:58.075996+00:00",
       "modality": "NETHERITEPOT",
       "status": "active"
+    },
+    {
+      "minecraft_name": "Coni_rg",
+      "discord_id": "1252879424903184458",
+      "reason": "Refuse ss en torneo",
+      "duration": "30d",
+      "punished_by": "qShellya | @ for help !",
+      "punishment_date": "2025-12-26T03:18:41.514929+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-01-25T03:18:41.514929+00:00"
     }
   ],
-  "last_updated": "2025-12-24T14:50:04.599134+00:00"
+  "last_updated": "2025-12-26T03:18:41.516432+00:00"
 }
