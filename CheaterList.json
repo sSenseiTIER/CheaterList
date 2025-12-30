@@ -255,8 +255,12 @@
       "punished_by": "qRana_ | @ for help",
       "punishment_date": "2025-11-30T03:55:56.174058+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2025-12-30T03:55:56.174058+00:00"
+      "status": "expired",
+      "expires": "2025-12-30T03:55:56.174058+00:00",
+      "expired_date": "2025-12-30T04:54:24.065396+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado por sistema",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "zF3L1X",
@@ -403,5 +407,5 @@
       "expires": "2026-01-25T23:02:24.729163+00:00"
     }
   ],
-  "last_updated": "2025-12-26T23:02:24.729735+00:00"
+  "last_updated": "2025-12-30T04:54:24.065625+00:00"
 }
