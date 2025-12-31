@@ -405,7 +405,17 @@
       "modality": "NETHERITEPOT",
       "status": "active",
       "expires": "2026-01-25T23:02:24.729163+00:00"
+    },
+    {
+      "minecraft_name": "Juan",
+      "discord_id": "1224448447386489010",
+      "reason": "Closet Cheating / Video Evidence",
+      "duration": "permanent",
+      "punished_by": "SA/NA nevapray",
+      "punishment_date": "2025-12-31T04:09:50.664078+00:00",
+      "modality": "SWORD",
+      "status": "active"
     }
   ],
-  "last_updated": "2025-12-30T04:55:25.677115+00:00"
+  "last_updated": "2025-12-31T04:09:50.664560+00:00"
 }
