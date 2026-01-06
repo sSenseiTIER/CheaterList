@@ -424,9 +424,13 @@
       "punished_by": "Andrew",
       "punishment_date": "2026-01-06T00:52:57.890586+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-02-05T00:52:57.890586+00:00"
+      "status": "expired",
+      "expires": "2026-02-05T00:52:57.890586+00:00",
+      "expired_date": "2026-01-06T03:53:25.563139+00:00",
+      "expired_by": "Dev | ma abrime porf",
+      "expiration_reason": "idiota",
+      "original_status": "expired"
     }
   ],
-  "last_updated": "2026-01-06T00:52:57.891653+00:00"
+  "last_updated": "2026-01-06T03:53:25.563518+00:00"
 }
