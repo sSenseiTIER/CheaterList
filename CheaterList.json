@@ -430,7 +430,18 @@
       "expired_by": "Dev | ma abrime porf",
       "expiration_reason": "idiota",
       "original_status": "expired"
+    },
+    {
+      "minecraft_name": "0006761lmnop",
+      "discord_id": "1338233804422123653",
+      "reason": "Refuse To Ss",
+      "duration": "30d",
+      "punished_by": "Andrew",
+      "punishment_date": "2026-01-06T22:02:07.829949+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-02-05T22:02:07.829949+00:00"
     }
   ],
-  "last_updated": "2026-01-06T03:53:25.563518+00:00"
+  "last_updated": "2026-01-06T22:02:07.830568+00:00"
 }
