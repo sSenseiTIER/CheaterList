@@ -415,7 +415,18 @@
       "punishment_date": "2025-12-31T04:09:50.664078+00:00",
       "modality": "SWORD",
       "status": "active"
+    },
+    {
+      "minecraft_name": "zRuss_",
+      "discord_id": "952028006614982706",
+      "reason": "Refuse To SS",
+      "duration": "30d",
+      "punished_by": "Andrew",
+      "punishment_date": "2026-01-06T00:52:57.890586+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-02-05T00:52:57.890586+00:00"
     }
   ],
-  "last_updated": "2025-12-31T04:09:50.664560+00:00"
+  "last_updated": "2026-01-06T00:52:57.891653+00:00"
 }
