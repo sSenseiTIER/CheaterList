@@ -327,8 +327,12 @@
       "punished_by": "u",
       "punishment_date": "2025-12-24T01:00:32.379114+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-01-08T01:00:32.379114+00:00"
+      "status": "expired",
+      "expires": "2026-01-08T01:00:32.379114+00:00",
+      "expired_date": "2026-01-08T01:05:43.902697+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "7hza",
@@ -443,5 +447,5 @@
       "expires": "2026-02-05T22:02:07.829949+00:00"
     }
   ],
-  "last_updated": "2026-01-06T22:02:07.830568+00:00"
+  "last_updated": "2026-01-08T01:05:43.903182+00:00"
 }
