@@ -445,7 +445,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-02-05T22:02:07.829949+00:00"
+    },
+    {
+      "minecraft_name": "Diusikke",
+      "discord_id": "913924891588325376",
+      "reason": "Blatant Cheating + Refusse SS",
+      "duration": "40d",
+      "punished_by": "Tiliwilis",
+      "punishment_date": "2026-01-08T20:06:21.460462+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-01-08T01:06:06.116844+00:00"
+  "last_updated": "2026-01-08T20:06:21.461127+00:00"
 }
