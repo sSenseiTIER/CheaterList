@@ -289,8 +289,12 @@
       "punished_by": "chica emo profesional xd7w7",
       "punishment_date": "2025-12-05T21:17:10.945610+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-01-09T21:17:10.945610+00:00"
+      "status": "expired",
+      "expires": "2026-01-09T21:17:10.945610+00:00",
+      "expired_date": "2026-01-09T21:28:28.473995+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "leolgve/gatitadestyffy",
@@ -462,5 +466,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-01-09T21:28:27.942836+00:00"
+  "last_updated": "2026-01-09T21:28:28.474427+00:00"
 }
