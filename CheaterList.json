@@ -90,8 +90,12 @@
       "punished_by": "chica emo profesional xd7w7",
       "punishment_date": "2025-12-05T21:16:38.335603+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-01-09T21:16:38.335603+00:00"
+      "status": "expired",
+      "expires": "2026-01-09T21:16:38.335603+00:00",
+      "expired_date": "2026-01-09T21:28:27.942461+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "0dyssy",
@@ -458,5 +462,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-01-08T20:06:21.461127+00:00"
+  "last_updated": "2026-01-09T21:28:27.942836+00:00"
 }
