@@ -53,8 +53,12 @@
       "punished_by": "Tiliwilis @ For Help",
       "punishment_date": "2025-10-19T05:12:57.447156+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-01-17T05:12:57.447156+00:00"
+      "status": "expired",
+      "expires": "2026-01-17T05:12:57.447156+00:00",
+      "expired_date": "2026-01-17T05:28:27.885256+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "toledoo144hz",
@@ -470,5 +474,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-01-11T21:05:43.853117+00:00"
+  "last_updated": "2026-01-17T05:28:27.885601+00:00"
 }
