@@ -68,8 +68,12 @@
       "punished_by": "Joca",
       "punishment_date": "2025-10-23T01:55:07.464628+00:00",
       "modality": "NETHERITEPOT",
-      "status": "active",
-      "expires": "2026-01-21T01:55:07.464628+00:00"
+      "status": "expired",
+      "expires": "2026-01-21T01:55:07.464628+00:00",
+      "expired_date": "2026-01-21T02:05:44.096939+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado por sistema",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "Kxyzip",
@@ -474,5 +478,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-01-17T05:28:27.885601+00:00"
+  "last_updated": "2026-01-21T02:05:44.097234+00:00"
 }
