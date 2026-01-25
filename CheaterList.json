@@ -394,8 +394,12 @@
       "punished_by": "qShellya | @ for help !",
       "punishment_date": "2025-12-26T03:18:41.514929+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-01-25T03:18:41.514929+00:00"
+      "status": "expired",
+      "expires": "2026-01-25T03:18:41.514929+00:00",
+      "expired_date": "2026-01-25T03:28:28.084058+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "3xecuter",
@@ -478,5 +482,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-01-21T02:06:06.071116+00:00"
+  "last_updated": "2026-01-25T03:28:28.084333+00:00"
 }
