@@ -420,8 +420,12 @@
       "punished_by": "SA | Bigcuts",
       "punishment_date": "2025-12-26T23:01:45.702240+00:00",
       "modality": "NETHERITEPOT",
-      "status": "active",
-      "expires": "2026-01-25T23:01:45.702240+00:00"
+      "status": "expired",
+      "expires": "2026-01-25T23:01:45.702240+00:00",
+      "expired_date": "2026-01-25T23:05:43.948201+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado por sistema",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "Laichi",
@@ -482,5 +486,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-01-25T03:28:28.084333+00:00"
+  "last_updated": "2026-01-25T23:05:43.948456+00:00"
 }
