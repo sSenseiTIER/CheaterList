@@ -113,8 +113,12 @@
       "punished_by": "SA | IlyLunnnaa @ 4 help",
       "punishment_date": "2025-10-30T01:52:07.444388+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-01-28T01:52:07.444388+00:00"
+      "status": "expired",
+      "expires": "2026-01-28T01:52:07.444388+00:00",
+      "expired_date": "2026-01-28T02:05:44.014307+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "iSexAdd1ct",
@@ -490,5 +494,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-01-25T23:06:07.618580+00:00"
+  "last_updated": "2026-01-28T02:05:44.014730+00:00"
 }
