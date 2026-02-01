@@ -1,19 +1,15 @@
 {
   "cheaters": [
     {
-      "minecraft_name": "vayju",
+      "minecraft_name": "Sensei",
       "discord_id": "823659261183262730",
       "reason": "test",
       "duration": "1d",
       "punished_by": "Sensei",
-      "punishment_date": "2025-12-23T14:34:53.069240+00:00",
+      "punishment_date": "2026-02-01T18:08:13.600901+00:00",
       "modality": "SWORD",
-      "status": "expired",
-      "expires": "2025-12-24T14:34:53.069240+00:00",
-      "expired_date": "2025-12-24T14:50:04.598799+00:00",
-      "expired_by": "Sistema Automático",
-      "expiration_reason": "Auto-expirado por sistema",
-      "original_status": "expired"
+      "status": "active",
+      "expires": "2026-02-02T18:08:13.600901+00:00"
     },
     {
       "minecraft_name": "AgtncitoD3AD",
@@ -498,5 +494,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-01-28T02:06:06.836265+00:00"
+  "last_updated": "2026-02-01T18:08:13.601596+00:00"
 }
