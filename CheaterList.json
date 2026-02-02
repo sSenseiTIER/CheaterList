@@ -8,8 +8,12 @@
       "punished_by": "Sensei",
       "punishment_date": "2026-02-01T18:08:13.600901+00:00",
       "modality": "SWORD",
-      "status": "active",
-      "expires": "2026-02-02T18:08:13.600901+00:00"
+      "status": "expired",
+      "expires": "2026-02-02T18:08:13.600901+00:00",
+      "expired_date": "2026-02-02T19:05:44.106846+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado por sistema",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "AgtncitoD3AD",
@@ -494,5 +498,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-02-01T18:08:13.601596+00:00"
+  "last_updated": "2026-02-02T19:05:44.107196+00:00"
 }
