@@ -10,7 +10,7 @@
       "modality": "SWORD",
       "status": "expired",
       "expires": "2026-02-02T18:08:13.600901+00:00",
-      "expired_date": "2026-02-02T19:05:44.106846+00:00",
+      "expired_date": "2026-02-02T19:06:06.260674+00:00",
       "expired_by": "Sistema Automático",
       "expiration_reason": "Auto-expirado por sistema",
       "original_status": "expired"
@@ -498,5 +498,5 @@
       "expires": "2026-02-17T20:06:21.460462+00:00"
     }
   ],
-  "last_updated": "2026-02-02T19:05:44.107196+00:00"
+  "last_updated": "2026-02-02T19:06:06.261032+00:00"
 }
