@@ -507,7 +507,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-02-18T00:51:20.290782+00:00"
+    },
+    {
+      "minecraft_name": "JhayLivann_",
+      "discord_id": "1244112572064600188",
+      "reason": "cheating in ss",
+      "duration": "60d",
+      "punished_by": "SA | Bigcuts",
+      "punishment_date": "2026-02-03T06:21:07.396098+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active",
+      "expires": "2026-04-04T06:21:07.396098+00:00"
     }
   ],
-  "last_updated": "2026-02-03T00:51:20.292053+00:00"
+  "last_updated": "2026-02-03T06:21:07.397003+00:00"
 }
