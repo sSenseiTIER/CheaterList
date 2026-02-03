@@ -496,7 +496,18 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-02-17T20:06:21.460462+00:00"
+    },
+    {
+      "minecraft_name": "7zql1k",
+      "discord_id": "1078031020630224910",
+      "reason": "Falsificación de Scores",
+      "duration": "15d",
+      "punished_by": "Tiliwilis",
+      "punishment_date": "2026-02-03T00:51:20.290782+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-02-18T00:51:20.290782+00:00"
     }
   ],
-  "last_updated": "2026-02-02T19:06:06.261032+00:00"
+  "last_updated": "2026-02-03T00:51:20.292053+00:00"
 }
