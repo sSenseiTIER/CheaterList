@@ -223,8 +223,12 @@
       "punished_by": "NA | Styffy",
       "punishment_date": "2025-11-06T00:42:43.094096+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-02-04T00:42:43.094096+00:00"
+      "status": "expired",
+      "expires": "2026-02-04T00:42:43.094096+00:00",
+      "expired_date": "2026-02-04T01:05:44.365566+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "matisito15_",
@@ -520,5 +524,5 @@
       "expires": "2026-04-04T06:21:07.396098+00:00"
     }
   ],
-  "last_updated": "2026-02-03T06:21:07.397003+00:00"
+  "last_updated": "2026-02-04T01:05:44.365886+00:00"
 }
