@@ -258,8 +258,12 @@
       "punished_by": "Tiliwilis @ For Help",
       "punishment_date": "2025-11-26T00:38:13.589325+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-03-26T00:38:13.589325+00:00"
+      "status": "expired",
+      "expires": "2026-03-26T00:38:13.589325+00:00",
+      "expired_date": "2026-02-05T03:24:28.266863+00:00",
+      "expired_by": "SA | Vayju",
+      "expiration_reason": "Crystal pvp",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "zog",
@@ -524,5 +528,5 @@
       "expires": "2026-04-04T06:21:07.396098+00:00"
     }
   ],
-  "last_updated": "2026-02-04T01:06:06.426284+00:00"
+  "last_updated": "2026-02-05T03:24:28.267274+00:00"
 }
