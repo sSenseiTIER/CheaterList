@@ -506,8 +506,12 @@
       "punished_by": "Tiliwilis",
       "punishment_date": "2026-01-08T20:06:21.460462+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-02-17T20:06:21.460462+00:00"
+      "status": "expired",
+      "expires": "2026-02-17T20:06:21.460462+00:00",
+      "expired_date": "2026-02-17T20:28:41.473837+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado por sistema",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "7zql1k",
@@ -532,5 +536,5 @@
       "expires": "2026-04-04T06:21:07.396098+00:00"
     }
   ],
-  "last_updated": "2026-02-05T22:58:25.177924+00:00"
+  "last_updated": "2026-02-17T20:28:41.474121+00:00"
 }
