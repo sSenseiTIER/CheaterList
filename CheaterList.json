@@ -378,8 +378,12 @@
       "punished_by": "SA | Bigcuts",
       "punishment_date": "2025-12-24T07:06:53.273272+00:00",
       "modality": "NETHERITEPOT",
-      "status": "active",
-      "expires": "2026-02-22T07:06:53.273272+00:00"
+      "status": "expired",
+      "expires": "2026-02-22T07:06:53.273272+00:00",
+      "expired_date": "2026-02-22T07:28:41.441182+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "nchilll",
@@ -571,5 +575,5 @@
       "status": "active"
     }
   ],
-  "last_updated": "2026-02-21T02:54:11.427981+00:00"
+  "last_updated": "2026-02-22T07:28:41.441482+00:00"
 }
