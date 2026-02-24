@@ -435,7 +435,7 @@
       "modality": "CRYSTALPVP",
       "status": "expired",
       "expires": "2026-02-24T18:55:43.521959+00:00",
-      "expired_date": "2026-02-24T18:58:16.259534+00:00",
+      "expired_date": "2026-02-24T18:58:25.122294+00:00",
       "expired_by": "Sistema Automático",
       "expiration_reason": "Auto-expirado",
       "original_status": "expired"
@@ -583,5 +583,5 @@
       "status": "active"
     }
   ],
-  "last_updated": "2026-02-24T18:58:16.259965+00:00"
+  "last_updated": "2026-02-24T18:58:25.122711+00:00"
 }
