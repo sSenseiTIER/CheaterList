@@ -581,7 +581,17 @@
       "punishment_date": "2026-02-21T02:54:11.427476+00:00",
       "modality": "NETHERITEPOT",
       "status": "active"
+    },
+    {
+      "minecraft_name": "TheCooled",
+      "discord_id": "1331624679382712321",
+      "reason": "Refuse SS",
+      "duration": "permanent",
+      "punished_by": "Mod | DragonaDeShrek_",
+      "punishment_date": "2026-02-26T21:37:13.540887+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active"
     }
   ],
-  "last_updated": "2026-02-24T18:58:25.122711+00:00"
+  "last_updated": "2026-02-26T21:37:13.543044+00:00"
 }
