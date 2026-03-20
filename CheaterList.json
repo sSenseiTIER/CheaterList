@@ -569,8 +569,12 @@
       "punished_by": "SA | Vayju",
       "punishment_date": "2026-02-18T17:17:48.999911+00:00",
       "modality": "NETHERITEPOT",
-      "status": "active",
-      "expires": "2026-03-20T17:17:48.999911+00:00"
+      "status": "expired",
+      "expires": "2026-03-20T17:17:48.999911+00:00",
+      "expired_date": "2026-03-20T17:34:29.475220+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "Esclava_Remix",
@@ -593,5 +597,5 @@
       "status": "active"
     }
   ],
-  "last_updated": "2026-02-26T21:37:13.543044+00:00"
+  "last_updated": "2026-03-20T17:34:29.475532+00:00"
 }
