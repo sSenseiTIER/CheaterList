@@ -595,7 +595,17 @@
       "punishment_date": "2026-02-26T21:37:13.540887+00:00",
       "modality": "NETHERITEPOT",
       "status": "active"
+    },
+    {
+      "minecraft_name": "YoungThreetz",
+      "discord_id": "1466485987566686309",
+      "reason": "Closet Cheating / Video Evidence",
+      "duration": "permanent",
+      "punished_by": "Admin | Sypruk",
+      "punishment_date": "2026-04-01T02:26:09.712325+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active"
     }
   ],
-  "last_updated": "2026-03-20T17:36:36.056685+00:00"
+  "last_updated": "2026-04-01T02:26:09.712858+00:00"
 }
