@@ -605,7 +605,17 @@
       "punishment_date": "2026-04-01T02:26:09.712325+00:00",
       "modality": "NETHERITEPOT",
       "status": "active"
+    },
+    {
+      "minecraft_name": "xKeniangus",
+      "discord_id": "1489704629754396924",
+      "reason": "Closet Cheating / Video Evidence",
+      "duration": "permanent",
+      "punished_by": "Regulator | Keskloa",
+      "punishment_date": "2026-04-03T22:05:13.618450+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active"
     }
   ],
-  "last_updated": "2026-04-01T02:26:09.712858+00:00"
+  "last_updated": "2026-04-03T22:05:13.618949+00:00"
 }
