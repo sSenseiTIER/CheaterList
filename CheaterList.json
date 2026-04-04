@@ -548,8 +548,12 @@
       "punished_by": "SA | Bigcuts",
       "punishment_date": "2026-02-03T06:21:07.396098+00:00",
       "modality": "NETHERITEPOT",
-      "status": "active",
-      "expires": "2026-04-04T06:21:07.396098+00:00"
+      "status": "expired",
+      "expires": "2026-04-04T06:21:07.396098+00:00",
+      "expired_date": "2026-04-04T06:44:02.325202+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "6LittleAlex7",
@@ -627,5 +631,5 @@
       "status": "active"
     }
   ],
-  "last_updated": "2026-04-04T00:28:48.944302+00:00"
+  "last_updated": "2026-04-04T06:44:02.325559+00:00"
 }
