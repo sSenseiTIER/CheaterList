@@ -639,7 +639,17 @@
       "punishment_date": "2026-04-04T07:57:07.612827+00:00",
       "modality": "NETHERITEPOT",
       "status": "active"
+    },
+    {
+      "minecraft_name": "Andres",
+      "discord_id": "1051620807517945907",
+      "reason": "blatant stuff",
+      "duration": "permanent",
+      "punished_by": "Admin | Sypruk",
+      "punishment_date": "2026-04-09T01:41:53.946898+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active"
     }
   ],
-  "last_updated": "2026-04-04T07:57:07.613369+00:00"
+  "last_updated": "2026-04-09T01:41:53.947646+00:00"
 }
