@@ -1,5 +1,17 @@
 {
-  "cheaters": [],
-  "last_updated": "2026-04-12T01:14:41.441552+00:00",
+  "cheaters": [
+    {
+      "minecraft_name": "Ldqus",
+      "discord_id": "977322307762679888",
+      "reason": "Alting",
+      "duration": "15d",
+      "punished_by": "Tiliwilis",
+      "punishment_date": "2026-04-14T13:45:35.159940+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-04-29T13:45:35.159940+00:00"
+    }
+  ],
+  "last_updated": "2026-04-14T13:45:35.161085+00:00",
   "total_cheaters": 0
 }
