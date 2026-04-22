@@ -10,8 +10,19 @@
       "modality": "CRYSTALPVP",
       "status": "active",
       "expires": "2026-05-22T22:56:04.530621+00:00"
+    },
+    {
+      "minecraft_name": "Ez3lock_ / illustrator",
+      "discord_id": "1013577089309474879",
+      "reason": "Compartir Cuenta / Ldqus",
+      "duration": "30d",
+      "punished_by": "Tiliwilis",
+      "punishment_date": "2026-04-22T22:56:22.647094+00:00",
+      "modality": "CRYSTALPVP",
+      "status": "active",
+      "expires": "2026-05-22T22:56:22.647094+00:00"
     }
   ],
-  "last_updated": "2026-04-22T22:56:04.531609+00:00",
+  "last_updated": "2026-04-22T22:56:22.647569+00:00",
   "total_cheaters": 0
 }
