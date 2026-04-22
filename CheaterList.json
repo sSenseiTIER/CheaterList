@@ -1,17 +1,17 @@
 {
   "cheaters": [
     {
-      "minecraft_name": "Ldqus",
+      "minecraft_name": "A moment",
       "discord_id": "977322307762679888",
-      "reason": "Alting",
-      "duration": "15d",
+      "reason": "Compartir Cuenta (xLuxo)",
+      "duration": "30d",
       "punished_by": "Tiliwilis",
-      "punishment_date": "2026-04-14T13:45:35.159940+00:00",
+      "punishment_date": "2026-04-22T22:56:04.530621+00:00",
       "modality": "CRYSTALPVP",
       "status": "active",
-      "expires": "2026-04-29T13:45:35.159940+00:00"
+      "expires": "2026-05-22T22:56:04.530621+00:00"
     }
   ],
-  "last_updated": "2026-04-14T13:45:35.161085+00:00",
+  "last_updated": "2026-04-22T22:56:04.531609+00:00",
   "total_cheaters": 0
 }
