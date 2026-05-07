@@ -31,8 +31,18 @@
       "punishment_date": "2026-05-02T17:35:07.032118+00:00",
       "modality": "NETHERITEPOT",
       "status": "active"
+    },
+    {
+      "minecraft_name": "Mr_Zeuz34x / dragki56",
+      "discord_id": "892261960127774802",
+      "reason": "Blatant stuff",
+      "duration": "permanent",
+      "punished_by": "oNxaiety",
+      "punishment_date": "2026-05-07T03:38:09.893141+00:00",
+      "modality": "NETHERITEPOT",
+      "status": "active"
     }
   ],
-  "last_updated": "2026-05-02T17:35:07.032906+00:00",
+  "last_updated": "2026-05-07T03:38:09.893619+00:00",
   "total_cheaters": 0
 }
