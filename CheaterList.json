@@ -8,8 +8,12 @@
       "punished_by": "Tiliwilis",
       "punishment_date": "2026-04-22T22:56:04.530621+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-05-22T22:56:04.530621+00:00"
+      "status": "expired",
+      "expires": "2026-05-22T22:56:04.530621+00:00",
+      "expired_date": "2026-05-22T22:59:20.694919+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado por sistema",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "Ez3lock_ / illustrator",
@@ -43,6 +47,6 @@
       "status": "active"
     }
   ],
-  "last_updated": "2026-05-07T03:38:09.893619+00:00",
+  "last_updated": "2026-05-22T22:59:20.695305+00:00",
   "total_cheaters": 0
 }
