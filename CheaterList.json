@@ -23,8 +23,12 @@
       "punished_by": "Tiliwilis",
       "punishment_date": "2026-04-22T22:56:22.647094+00:00",
       "modality": "CRYSTALPVP",
-      "status": "active",
-      "expires": "2026-05-22T22:56:22.647094+00:00"
+      "status": "expired",
+      "expires": "2026-05-22T22:56:22.647094+00:00",
+      "expired_date": "2026-05-22T22:59:23.993158+00:00",
+      "expired_by": "Sistema Automático",
+      "expiration_reason": "Auto-expirado",
+      "original_status": "expired"
     },
     {
       "minecraft_name": "Andres",
@@ -47,6 +51,6 @@
       "status": "active"
     }
   ],
-  "last_updated": "2026-05-22T22:59:20.695305+00:00",
+  "last_updated": "2026-05-22T22:59:23.993585+00:00",
   "total_cheaters": 0
 }
